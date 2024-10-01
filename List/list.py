@@ -5,6 +5,9 @@ my_list = [1, 2, 3]
 my_list.append(4)
 print(my_list)
 
+# Printing the length of array
+print("My list is size", len(my_list))
+
 # Appending two lists together
 my_other_list = [5, 6, 7]
 my_list.extend(my_other_list)
