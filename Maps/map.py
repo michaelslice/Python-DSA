@@ -59,7 +59,6 @@ for key, value in my_dict.items():
 
 # Checking for keys in dictionaries
 # You can use the in keyword to check if a key exists in a dictionary.
-
 if "name" in my_dict:
     print("Key exists!")
 
