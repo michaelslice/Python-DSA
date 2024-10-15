@@ -20,7 +20,7 @@ class Solution:
         while queue:
 
             # Temp list to hold nodes at current level
-            val = []
+            val = []    
 
             # Iterate through all nodes at current level
             for i in range(len(queue)):
