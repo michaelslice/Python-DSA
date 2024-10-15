@@ -1,0 +1,1 @@
+Goal: Return a list of numbers that are all nodes visible from the right side of the tree
