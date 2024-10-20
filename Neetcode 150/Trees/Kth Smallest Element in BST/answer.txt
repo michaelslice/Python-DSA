@@ -1,0 +1,6 @@
+Goal: Search the bst and find the k-th smallest element,
+it is a BST so inorder traversal is optimal because
+we are approaching each node in asending order
+
+Method: Perform dfs in order traversal and keep a count 
+of each node, once count is equal to k return that node
